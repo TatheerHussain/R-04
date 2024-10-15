@@ -1,12 +1,11 @@
-# AICUP 隱私保護與醫學數據標準化競賽：解碼臨床病例、讓數據說故事
-競賽成績:  
+# AICUP Privacy protection and medical data standardization competition: Decoding clinical cases and letting data tell stories:  
 * Rank 4  
 * Task 1: 0.8155 / Rank7  
 * Task 2: 0.8065 / Rank5
 # Introduce
-本競賽的目的是將真實醫療院所內已去識別化的電子病歷資料供參賽者進行下列兩項子競賽任務：  
-**1. 病患隱私資訊擷取**  
-**2. 時間資訊正規化**
+The purpose of this competition is to provide participants with de-identified electronic medical records from real medical institutions to perform the following two sub-competition tasks: 
+**1. Capture of patient privacy information** 
+**2. Regularization of time information**
 # Source code explain
 ## GPT_data.ipynb
 此程式包含兩個功能  
